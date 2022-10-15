@@ -6,3 +6,6 @@ class calculator:
 
     def add(self):
         return self.a + self.b
+
+    def subract(self):
+        return self.a - self.b
